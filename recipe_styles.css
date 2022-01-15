@@ -1,0 +1,49 @@
+body {
+background-color: white;
+font-family: 'Be Vietnam Pro', sans-serif;
+color: #c90008;
+border: 2px;
+padding: 50px;
+}
+
+nav {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    color: black;
+}
+
+li {
+    color: black;
+}
+
+a {
+    color: #c90008;
+    padding: 20px;
+}
+
+a:hover {
+    color: black;
+}
+
+.welcome {
+    text-align: center;
+}
+
+#crepe_img {
+width: 520px;
+height: 300px;
+border: 2px;
+border-color: #c90008;
+border-style: solid;
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding: 10px;
+}
