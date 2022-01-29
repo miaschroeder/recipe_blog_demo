@@ -15,11 +15,6 @@ h1 {
     text-align: center;
 }
 
-h2 {
-    font-size: 25px;
-    text-align: center;
-}
-
 p {
     color: black;
     font-weight: 375;
@@ -81,4 +76,8 @@ input {
     border: none;
     border-radius: 9px;
     margin-top: 15px;
+}
+
+#form-desc {
+    text-align: center;
 }
