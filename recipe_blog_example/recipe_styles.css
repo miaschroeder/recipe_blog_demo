@@ -15,6 +15,11 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-size: 25px;
+    text-align: center;
+}
+
 p {
     color: black;
     font-weight: 375;
@@ -32,6 +37,7 @@ a {
 
 a:hover {
     color: black;
+    cursor: pointer;
 }
 
 .welcome {
@@ -48,4 +54,31 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 padding: 10px;
+}
+
+form {
+    display: block;
+    margin-top: 0em;
+    align-items: center;
+}
+
+input {
+    margin: 10px;
+    padding: 10px;
+}
+
+#recipe-desc {
+    width: 500px;
+}
+
+#recipe-button {
+    cursor: pointer;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    background-color: #c90008;
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+    border: none;
+    border-radius: 9px;
+    margin-top: 15px;
 }
