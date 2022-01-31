@@ -55,6 +55,11 @@ form {
     display: block;
     margin-top: 0em;
     align-items: center;
+    background-color: #ffe3e9;
+    padding: 30px;
+    border-radius: 9px;
+    width: 85%;
+    margin-left: 4%;
 }
 
 input {
@@ -63,7 +68,7 @@ input {
 }
 
 #recipe-desc {
-    width: 500px;
+    width: 70%;
 }
 
 #recipe-button {
