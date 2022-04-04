@@ -1,3 +1,10 @@
-# Repo to organize code for WICS HTML/CSS Workshops
+# WICS x Cypress Web Development Workshop
 
-Snippets of code used for teaching purposes are in the teaching_examples folder. The code used to create the recipe blog website example are in the recipe_blog_example folder.
+This repository contains example pieces of HTML and CSS code as well as a full example of a recipe blog website used for WICS @ UCI's collaborative workshop series with Cypress.
+
+- Snippets of code used for examples of HTML elements & CSS styling are in the `teaching_examples` folder.
+- Code used to create the recipe blog website example are in the `recipe_blog_example` folder.
+
+### HTML & CSS examples
+
+### Recipe Blog example
