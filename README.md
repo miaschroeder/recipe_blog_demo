@@ -8,3 +8,7 @@ This repository contains example pieces of HTML and CSS code as well as a full e
 ### HTML & CSS examples
 
 ### Recipe Blog example
+<img src=/recipe_blog_welcome_img.png alt="Home Page" style="width: 80%; align: center"/>
+
+
+<img src=/recipe_blog_recipe_img.png alt="Home Page" style="width: 80%; align: center"/>
