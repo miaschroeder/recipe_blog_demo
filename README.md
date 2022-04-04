@@ -17,3 +17,6 @@ This repository contains example pieces of HTML and CSS code as well as a full e
 
 *The recipe page of the recipe blog example:*  
 <img src=/recipe_blog_recipe_img.png alt="Home Page" style="width: 80%; align: center"/>
+
+### Contributors
+[Mia Schroeder](https://github.com/miaschroeder)
