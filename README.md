@@ -7,6 +7,7 @@ This repository contains example pieces of HTML and CSS code as well as a full e
 
 ### HTML & CSS examples
 *How a snippet of HTML is used for teaching in the workshop:*  
+
 <img src=/html_teaching_example.png alt="Home Page" style="width: 80%; align: center"/>
 
 ### Recipe Blog example
